@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "coffeescript": "^2.4.1"
+  },
+  "name": "bunyan-close",
+  "version": "1.0.0",
+  "main": "index.coffee",
+  "devDependencies": {},
+  "scripts": {
+    "start": ": > my.log && coffee index.coffee && tail -n 1 my.log"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
