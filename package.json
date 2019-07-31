@@ -3,7 +3,7 @@
     "bunyan": "^1.8.12",
     "coffeescript": "^2.4.1"
   },
-  "name": "bunyan-close",
+  "name": "bunyan-graceful-shutdown",
   "version": "1.0.0",
   "main": "index.coffee",
   "devDependencies": {},
